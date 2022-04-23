@@ -1,6 +1,11 @@
 # Hi 👋 My name is Edoardo Giuseppe Ostinelli
 ## Consultant Psychiatrist, Senior Researcher (Oxford Precision Psychiatry Lab)
-I have been learning to code HTML & PHP when I was 12 years old, building and dismantling websites. I have then learned c(SPSS, Stata, R) during my residency in Psychiatry to perform statistical analyses, understand more about statistical analyses, and fun.  * 🌍  I'm based in Oxford, United Kingdom * ✉️  You can contact me at [edoardo.ostinelli@psych.ox.ac.uk](mailto:edoardo.ostinelli@psych.ox.ac.uk) * 🚀  I'm currently working on [Vitruvian plot](http://github.com/EGOstinelli/Vitruvian-plot) * 🧠  I'm learning how to build script and perform IPD-NMAs in R * 🤝  I'm open to collaborating on evidence synthesis, precision medicine, PWMA(s), IPDNMA(s), and psychosis related projects * ⚡  if (set.seed(sample(100,1,replace=T))!='interesting') {paste0('nice to meet you')}
+I have been learning to code HTML & PHP when I was 12 years old, building and dismantling websites. I have then learned c(SPSS, Stata, R) during my residency in Psychiatry to perform statistical analyses, understand more about statistical analyses, and fun.
+* 🌍  I'm based in Oxford, United Kingdom * ✉️  You can contact me at [edoardo.ostinelli@psych.ox.ac.uk](mailto:edoardo.ostinelli@psych.ox.ac.uk)
+* 🚀  I'm currently working on [Vitruvian plot](http://github.com/EGOstinelli/Vitruvian-plot)
+* 🧠  I'm learning how to build script and perform IPD-NMAs in R
+* 🤝  I'm open to collaborating on evidence synthesis, precision medicine, PWMA(s), IPDNMA(s), and psychosis related projects
+* ⚡  if (set.seed(sample(100,1,replace=T))!='interesting') {paste0('nice to meet you')}
 
 <a href="https://www.twitter.com/EGOstinelli" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/EGOstinelli?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
